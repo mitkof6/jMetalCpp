@@ -30,6 +30,7 @@
 #include "ArrayReal.h"
 #include "IntSolutionType.h"
 #include "IntNoneRepeatedSolutionType.h"
+#include "RealNormSolutionType.h"
 
 /**
  * This class allows to apply a SBX crossover operator using two parent
